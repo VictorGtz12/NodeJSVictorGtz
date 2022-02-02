@@ -1,0 +1,13 @@
+{
+  "name": "NodeJSVictorGtz",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Victor Gutierrez <a324635@uach.mx>",
+  "main": "ServidorAsincrono.js",
+  "scripts": {
+    "start": "node ServidorAsincrono.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
